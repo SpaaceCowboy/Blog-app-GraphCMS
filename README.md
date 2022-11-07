@@ -2,6 +2,8 @@
 
 Simple Blog-app Using [Next.js](https://nextjs.org/) , [Tailwindcss](https://tailwindcss.com/) and [GraphCMS](https://hygraph.com/)
 
+![](public/blog-app-sc.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
